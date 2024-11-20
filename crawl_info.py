@@ -73,23 +73,6 @@ def crawl_info(case_id):
                     if tbody:
                         docket_rows = tbody.find_all('tr')
                         docket_count += len(docket_rows)
-
-        # for p in range(1, total_pages_num+1):
-        #     url = f"https://clearinghouse.net/case/{case_id}/?docket_page={p}#docket"
-        #     response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-        #     if response.status_code == 200:
-        #         soup = BeautifulSoup(response.content, 'html.parser')
-        #         docket_table = soup.find_all('table', class_='table table-striped')
-        #         docket_table = docket_table[-1]
-        #         if docket_table:
-        #             tbody = docket_table.find('tbody')
-        #             if tbody:
-        #                 last_tr = tbody.find_all('tr')[-1]
-        #                 last_th = last_tr.find('th')
-
-        #                 text = last_th.get_text(strip=True)
-        #                 docket_count += int(re.search(r'\d+', text).group())
-
         
     return complaint_count, appeal_count, docket_count, result_case_type_txt
 
