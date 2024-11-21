@@ -58,7 +58,7 @@ def crawl_info(case_id):
                         complaint_count = None
                         break  # If a request fails, stop further processing
             else:
-                print("Div with id 'documentCollapse' not found.")
+                print(f"Case:{case_id} Div with id 'documentCollapse' not found.")
                 complaint_count = 0
 
             # appeal_count
@@ -119,7 +119,7 @@ def crawl_info(case_id):
                     else:
                         docket_count = None
             else:
-                print("Div with id 'docketCollapse' not found.")
+                print(f"Case:{case_id} Div with id 'docketCollapse' not found.")
                 docket_count = 0
             
             return complaint_count, appeal_count, docket_count, result_case_type_txt
@@ -141,7 +141,7 @@ if __name__ == '__main__':
 
     # If an http error occurs, you can start from the case_id where the error occurred.
     # Even though only one case has the error, the error seems to propagate to the following pages, so manual intervention is required.
-    case_from = 0
+    case_from = 1180
     case_to = 1398
     for case_id in tqdm(case_ids[case_from:case_to]):
         complaint_count, appeal_count, docket_count, result_case_type_txt = crawl_info(case_id)
