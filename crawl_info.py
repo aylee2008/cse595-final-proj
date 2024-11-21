@@ -17,15 +17,7 @@ def crawl_info(case_id):
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # # complaint_count
-            # tbody = soup.find('tbody')  # This finds the first <tbody> tag in the HTML  
-            # rows = tbody.find_all('tr')  # Find all rows in the <tbody>
-            
-            # for row in rows:
-            #     cells = row.find_all('td')  # Find all cells in the row
-            #     if "complaint" in cells[-1].get_text().lower():
-            #         complaint_count += 1
-
+            # complaint_count
             document_collapse_div = soup.find('div', id='documentCollapse')
             if document_collapse_div:
                 # Find all 'a' tags with class 'page-link ps-0' inside this div to get the total pages
@@ -94,34 +86,6 @@ def crawl_info(case_id):
             result_case_type_txt = "\n".join(result_case_types)
 
             # docket_count
-            # get total pages of docket table
-            # total_pages = soup.find_all('a', class_='page-link ps-0')
-            # print(len(total_pages))
-            # print(total_pages)
-            # if total_pages:
-            #     text = total_pages[-1].get_text(strip=True)
-            #     total_pages_num = re.search(r'\d+', text)
-            #     if total_pages_num:
-            #         total_pages_num = int(total_pages_num.group())
-            # else:
-            #     total_pages_num = 1
-
-            # # get the number of rows in each page
-            # for p in range(1, total_pages_num+1):
-            #     url = f"https://clearinghouse.net/case/{case_id}/?docket_page={p}#docket"
-            #     response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-            #     if response.status_code == 200:
-            #         soup = BeautifulSoup(response.content, 'html.parser')
-            #         docket_table = soup.find_all('table', class_='table table-striped')
-            #         docket_table = docket_table[-1]
-            #         if docket_table:
-            #             tbody = docket_table.find('tbody')
-            #             if tbody:
-            #                 docket_rows = tbody.find_all('tr')
-            #                 docket_count += len(docket_rows)
-            #     else:
-            #         docket_count = None
-
             docket_collapse_div = soup.find('div', id='docketCollapse')
             if docket_collapse_div:
                 # Find all 'a' tags with class 'page-link ps-0' inside this div
