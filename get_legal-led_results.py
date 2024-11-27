@@ -1,12 +1,17 @@
 # from together import Together
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from meta import DATASET_FOR_PROMPTING_PTH#, PROMPT_FOR_GEN_SUMS, MAX_CONTEXT_LEN, LLAMA_SUMM_FILE_PTH
+# from meta import DATASET_FOR_PROMPTING_PTH#, PROMPT_FOR_GEN_SUMS, MAX_CONTEXT_LEN, LLAMA_SUMM_FILE_PTH
 import pandas as pd
 from tqdm import tqdm
 import torch, os
 
 legal_led_max_len = 16384
-LEGALLED_SUMM_FILE_PTH = 'data/legal-led-16384/legal-led-16384-summarized-results.xlsx'
+# Sample
+# DATASET_FOR_PROMPTING_PTH = 'data/datasetwlink-clearninghouse-sample-final.xlsx'
+# LEGALLED_SUMM_FILE_PTH = 'data/legal-led-16384/legal-led-16384-sample-summarized-results.xlsx'
+# Test
+DATASET_FOR_PROMPTING_PTH = 'data/datasetwlink-clearninghouse-test-final.xlsx'
+LEGALLED_SUMM_FILE_PTH = 'data/legal-led-16384/legal-led-16384-test-summarized-results.xlsx'
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
