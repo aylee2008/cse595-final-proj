@@ -89,13 +89,37 @@ def prompt_dataframe(df:pd.DataFrame):
 
 def prompt_sample(path:str = "data\datasetwlink-clearninghouse-sample-final.xlsx", is_test=False):
     df = pd.read_excel(path)
-    response_df = prompt_dataframe(df)
-    if is_test:
-        save_file_path = "results/gpt-40/gpt_test_results.xlsx"
-    else:
-        save_file_path = "results/gpt-40/gpt_sample_results.xlsx"
-    response_df.to_excel(save_file_path, index=False)
-    print(f"DataFrame saved to {save_file_path}")
+    prompt_15895(df)
+    # response_df = prompt_dataframe(df)
+    # if is_test:
+    #     save_file_path = "results/gpt-40/gpt_test_results.xlsx"
+    # else:
+    #     save_file_path = "results/gpt-40/gpt_sample_results.xlsx"
+    # response_df.to_excel(save_file_path, index=False)
+    # print(f"DataFrame saved to {save_file_path}")
+    
+def prompt_15895(df:pd.DataFrame):
+    print(df)
+    case_ids = df['case id'].unique().tolist()
+    gt_summaries = []
+    model_summaries = []
+    for case_id in case_ids:
+        if case_id == 15895:
+            try:
+                gt_summary = list(df[df["case id"] == case_id]['case_summary'])[0]
+                case_docs = df[df['case id'] == case_id]['text'].tolist()
+                user_message = format_user_message(case_docs)
+                truncated_user_message = truncate_text(user_message)
+                summary = query_gpt(PROMPT_SYS_PROMPT, truncated_user_message)
+                # gt_summaries.append(gt_summary)
+                # model_summaries.append(summary)
+                print(summary)
+            except Exception as E:
+                print(f"Expection {E} occured")
+                continue
+            
+    # response_df = pd.DataFrame({'case_id': case_ids, 'gt_sum': gt_summaries, 'md_sum':model_summaries})
+    # return response_df
     
 if __name__ == "__main__":
     prompt_sample()
