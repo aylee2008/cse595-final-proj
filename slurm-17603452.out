@@ -1,0 +1,117 @@
+[5562, 16073, 589, 275, 5522, 15895]
+gpt-40
+Sample path is 
+results/gpt-40/gpt_sample_results.xlsx
+Processing gpt-40 Samples:   0%|          | 0/111 [00:00<?, ?it/s]Processing gpt-40 Samples:   1%|          | 1/111 [00:53<1:38:09, 53.54s/it]Processing gpt-40 Samples:   2%|▏         | 2/111 [01:45<1:35:04, 52.34s/it]Processing gpt-40 Samples:   3%|▎         | 3/111 [02:32<1:30:10, 50.10s/it]Processing gpt-40 Samples:   4%|▎         | 4/111 [03:22<1:29:07, 49.97s/it]Processing gpt-40 Samples:   5%|▍         | 5/111 [04:16<1:30:57, 51.49s/it]Processing gpt-40 Samples:   5%|▌         | 6/111 [05:09<1:30:51, 51.92s/it]Processing gpt-40 Samples:   6%|▋         | 7/111 [06:05<1:32:25, 53.32s/it]Processing gpt-40 Samples:   7%|▋         | 8/111 [07:03<1:34:15, 54.91s/it]Processing gpt-40 Samples:   8%|▊         | 9/111 [07:56<1:32:03, 54.15s/it]Processing gpt-40 Samples:   9%|▉         | 10/111 [08:47<1:29:31, 53.18s/it]Processing gpt-40 Samples:  10%|▉         | 11/111 [09:40<1:28:43, 53.23s/it]Processing gpt-40 Samples:  11%|█         | 12/111 [10:21<1:21:32, 49.42s/it]Processing gpt-40 Samples:  12%|█▏        | 13/111 [11:17<1:24:12, 51.56s/it]Processing gpt-40 Samples:  13%|█▎        | 14/111 [12:13<1:25:23, 52.82s/it]Processing gpt-40 Samples:  14%|█▎        | 15/111 [13:14<1:28:19, 55.20s/it]Processing gpt-40 Samples:  14%|█▍        | 16/111 [14:04<1:25:19, 53.89s/it]Processing gpt-40 Samples:  15%|█▌        | 17/111 [14:53<1:22:04, 52.38s/it]Processing gpt-40 Samples:  16%|█▌        | 18/111 [15:48<1:22:21, 53.13s/it]Processing gpt-40 Samples:  17%|█▋        | 19/111 [16:49<1:25:03, 55.47s/it]Processing gpt-40 Samples:  18%|█▊        | 20/111 [17:38<1:20:53, 53.34s/it]Processing gpt-40 Samples:  19%|█▉        | 21/111 [18:38<1:23:22, 55.58s/it]Processing gpt-40 Samples:  20%|█▉        | 22/111 [19:31<1:21:13, 54.76s/it]Processing gpt-40 Samples:  21%|██        | 23/111 [20:21<1:17:58, 53.16s/it]Processing gpt-40 Samples:  22%|██▏       | 24/111 [21:12<1:16:25, 52.70s/it]Processing gpt-40 Samples:  23%|██▎       | 25/111 [21:59<1:13:07, 51.02s/it]Processing gpt-40 Samples:  23%|██▎       | 26/111 [22:57<1:15:16, 53.14s/it]Processing gpt-40 Samples:  24%|██▍       | 27/111 [23:48<1:13:29, 52.50s/it]Processing gpt-40 Samples:  25%|██▌       | 28/111 [24:37<1:11:06, 51.40s/it]Processing gpt-40 Samples:  26%|██▌       | 29/111 [25:29<1:10:13, 51.38s/it]Processing gpt-40 Samples:  27%|██▋       | 30/111 [26:21<1:09:42, 51.64s/it]Processing gpt-40 Samples:  28%|██▊       | 31/111 [27:14<1:09:35, 52.20s/it]Processing gpt-40 Samples:  29%|██▉       | 32/111 [28:04<1:07:46, 51.48s/it]Processing gpt-40 Samples:  30%|██▉       | 33/111 [28:53<1:05:48, 50.63s/it]Processing gpt-40 Samples:  31%|███       | 34/111 [29:51<1:07:53, 52.91s/it]Processing gpt-40 Samples:  32%|███▏      | 35/111 [30:44<1:06:58, 52.87s/it]Processing gpt-40 Samples:  32%|███▏      | 36/111 [31:29<1:03:22, 50.69s/it]Processing gpt-40 Samples:  33%|███▎      | 37/111 [32:27<1:05:13, 52.88s/it]Processing gpt-40 Samples:  34%|███▍      | 38/111 [33:16<1:02:49, 51.63s/it]Processing gpt-40 Samples:  35%|███▌      | 39/111 [34:16<1:04:56, 54.12s/it]Processing gpt-40 Samples:  36%|███▌      | 40/111 [35:09<1:03:40, 53.81s/it]Processing gpt-40 Samples:  37%|███▋      | 41/111 [35:55<1:00:04, 51.50s/it]Processing gpt-40 Samples:  38%|███▊      | 42/111 [36:48<59:39, 51.88s/it]  Processing gpt-40 Samples:  39%|███▊      | 43/111 [37:49<1:01:55, 54.64s/it]Processing gpt-40 Samples:  40%|███▉      | 44/111 [38:38<59:03, 52.90s/it]  Processing gpt-40 Samples:  41%|████      | 45/111 [39:25<56:14, 51.13s/it]Processing gpt-40 Samples:  41%|████▏     | 46/111 [40:21<56:50, 52.47s/it]Processing gpt-40 Samples:  42%|████▏     | 47/111 [41:09<54:45, 51.33s/it]Processing gpt-40 Samples:  43%|████▎     | 48/111 [41:55<52:02, 49.56s/it]Processing gpt-40 Samples:  44%|████▍     | 49/111 [42:47<52:07, 50.45s/it]Processing gpt-40 Samples:  45%|████▌     | 50/111 [43:34<50:05, 49.28s/it]Processing gpt-40 Samples:  46%|████▌     | 51/111 [44:23<49:14, 49.24s/it]Processing gpt-40 Samples:  47%|████▋     | 52/111 [45:34<54:47, 55.72s/it]Processing gpt-40 Samples:  48%|████▊     | 53/111 [46:25<52:41, 54.51s/it]Processing gpt-40 Samples:  49%|████▊     | 54/111 [47:13<49:51, 52.48s/it]Processing gpt-40 Samples:  50%|████▉     | 55/111 [47:59<47:08, 50.50s/it]Processing gpt-40 Samples:  50%|█████     | 56/111 [48:45<44:58, 49.07s/it]Processing gpt-40 Samples:  51%|█████▏    | 57/111 [49:33<44:03, 48.95s/it]Processing gpt-40 Samples:  52%|█████▏    | 58/111 [50:22<43:13, 48.93s/it]Processing gpt-40 Samples:  53%|█████▎    | 59/111 [51:48<51:53, 59.87s/it]Processing gpt-40 Samples:  54%|█████▍    | 60/111 [52:35<47:42, 56.12s/it]Processing gpt-40 Samples:  55%|█████▍    | 61/111 [53:19<43:36, 52.32s/it]Processing gpt-40 Samples:  56%|█████▌    | 62/111 [54:08<42:08, 51.60s/it]Processing gpt-40 Samples:  57%|█████▋    | 63/111 [54:58<40:52, 51.10s/it]Processing gpt-40 Samples:  58%|█████▊    | 64/111 [55:55<41:26, 52.89s/it]Processing gpt-40 Samples:  59%|█████▊    | 65/111 [56:45<39:50, 51.98s/it]Processing gpt-40 Samples:  59%|█████▉    | 66/111 [57:38<39:11, 52.25s/it]Processing gpt-40 Samples:  60%|██████    | 67/111 [58:22<36:33, 49.85s/it]Processing gpt-40 Samples:  61%|██████▏   | 68/111 [59:18<37:03, 51.71s/it]Processing gpt-40 Samples:  62%|██████▏   | 69/111 [1:00:09<35:51, 51.23s/it]Processing gpt-40 Samples:  63%|██████▎   | 70/111 [1:00:58<34:44, 50.83s/it]Processing gpt-40 Samples:  64%|██████▍   | 71/111 [1:02:04<36:50, 55.27s/it]Processing gpt-40 Samples:  65%|██████▍   | 72/111 [1:02:55<34:59, 53.84s/it]Processing gpt-40 Samples:  66%|██████▌   | 73/111 [1:03:40<32:32, 51.39s/it]Processing gpt-40 Samples:  67%|██████▋   | 74/111 [1:04:29<31:16, 50.70s/it]Processing gpt-40 Samples:  68%|██████▊   | 75/111 [1:05:27<31:39, 52.76s/it]Processing gpt-40 Samples:  68%|██████▊   | 76/111 [1:06:28<32:10, 55.17s/it]Processing gpt-40 Samples:  69%|██████▉   | 77/111 [1:07:20<30:46, 54.31s/it]Processing gpt-40 Samples:  70%|███████   | 78/111 [1:08:13<29:36, 53.85s/it]Processing gpt-40 Samples:  71%|███████   | 79/111 [1:09:04<28:21, 53.16s/it]Processing gpt-40 Samples:  72%|███████▏  | 80/111 [1:09:53<26:49, 51.93s/it]Processing gpt-40 Samples:  73%|███████▎  | 81/111 [1:10:45<25:59, 51.97s/it]Processing gpt-40 Samples:  74%|███████▍  | 82/111 [1:11:37<25:03, 51.85s/it]Processing gpt-40 Samples:  75%|███████▍  | 83/111 [1:12:29<24:10, 51.82s/it]Processing gpt-40 Samples:  76%|███████▌  | 84/111 [1:13:20<23:12, 51.56s/it]Processing gpt-40 Samples:  77%|███████▋  | 85/111 [1:14:05<21:33, 49.76s/it]Processing gpt-40 Samples:  77%|███████▋  | 86/111 [1:14:53<20:25, 49.02s/it]Processing gpt-40 Samples:  78%|███████▊  | 87/111 [1:15:44<19:55, 49.79s/it]Processing gpt-40 Samples:  79%|███████▉  | 88/111 [1:16:39<19:36, 51.15s/it]Processing gpt-40 Samples:  80%|████████  | 89/111 [1:17:09<16:31, 45.08s/it]Processing gpt-40 Samples:  81%|████████  | 90/111 [1:17:54<15:42, 44.90s/it]Processing gpt-40 Samples:  82%|████████▏ | 91/111 [1:18:48<15:55, 47.77s/it]Processing gpt-40 Samples:  83%|████████▎ | 92/111 [1:19:35<15:00, 47.42s/it]Processing gpt-40 Samples:  84%|████████▍ | 93/111 [1:20:28<14:42, 49.04s/it]Processing gpt-40 Samples:  85%|████████▍ | 94/111 [1:21:20<14:10, 50.05s/it]Processing gpt-40 Samples:  86%|████████▌ | 95/111 [1:22:09<13:12, 49.55s/it]Processing gpt-40 Samples:  86%|████████▋ | 96/111 [1:23:01<12:34, 50.29s/it]Processing gpt-40 Samples:  87%|████████▋ | 97/111 [1:23:56<12:06, 51.88s/it]Processing gpt-40 Samples:  88%|████████▊ | 98/111 [1:24:52<11:29, 53.01s/it]Processing gpt-40 Samples:  89%|████████▉ | 99/111 [1:25:40<10:18, 51.51s/it]Processing gpt-40 Samples:  90%|█████████ | 100/111 [1:26:32<09:29, 51.79s/it]Processing gpt-40 Samples:  91%|█████████ | 101/111 [1:27:33<09:04, 54.42s/it]Processing gpt-40 Samples:  92%|█████████▏| 102/111 [1:28:21<07:51, 52.43s/it]Processing gpt-40 Samples:  93%|█████████▎| 103/111 [1:29:07<06:45, 50.73s/it]Processing gpt-40 Samples:  94%|█████████▎| 104/111 [1:30:04<06:07, 52.44s/it]Processing gpt-40 Samples:  95%|█████████▍| 105/111 [1:30:56<05:14, 52.47s/it]Processing gpt-40 Samples:  95%|█████████▌| 106/111 [1:32:10<04:54, 58.83s/it]Processing gpt-40 Samples:  96%|█████████▋| 107/111 [1:35:06<06:16, 94.07s/it]Processing gpt-40 Samples:  97%|█████████▋| 108/111 [1:35:55<04:01, 80.55s/it]Processing gpt-40 Samples:  98%|█████████▊| 109/111 [1:36:43<02:21, 70.72s/it]Processing gpt-40 Samples:  99%|█████████▉| 110/111 [1:37:26<01:02, 62.37s/it]Processing gpt-40 Samples: 100%|██████████| 111/111 [1:38:24<00:00, 61.04s/it]                                                                              Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 0
+Test count for model: gpt-40 is 1
+Test count for model: gpt-40 is 1
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 2
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 3
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 4
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 5
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Test count for model: gpt-40 is 6
+Update df len is 111
+DataFrame saved to results/gpt-40evalution_results.xlsx

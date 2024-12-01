@@ -1,3 +1,4 @@
+import argparse
 import re
 import statistics
 import pandas as pd
@@ -60,51 +61,70 @@ def prompt_sample(path:str = "results/gpt-40/gpt_test_results.xlsx", is_test=Tru
     print(f"Mean: {mean}, Standard Deviation: {std_dev}")
 
 
-def evaluate_samples():
-    test_path = 'results\gpt-40\gpt_test_results.xlsx'
-    sample_results_paths = ['results\llama_70b\sample_summarized_results.xlsx', 
-                     'results\legal-led-16384\legal-led-16384-sample-summarized-results.xlsx', 
-                     'results\gpt-40\gpt_sample_results.xlsx']
-    n = 10
+def evaluate_samples(model:str):
+    test_path = 'results/gpt-40/gpt_test_results.xlsx'#'results\gpt-40\gpt_test_results.xlsx'
+    # sample_results_paths = ['results\llama_70b\sample_summarized_results.xlsx', 
+    #                  'results\legal-led-16384\legal-led-16384-sample-summarized-results.xlsx', 
+    #                  'results\gpt-40\gpt_sample_results.xlsx']
+    sample_results_paths = ['results/gpt-40/gpt_sample_results.xlsx', 
+                     'results/legal-led-16384/legal-led-16384-sample-summarized-results.xlsx', 
+                     'results/llama_70b/sample_summarized_results.xlsx']
+    n = 7
     test_df = pd.read_excel(test_path)
     test_case_ids = test_df['case_id'].unique().tolist()
     print(test_case_ids)
     updated_rows = []
     
-    for sample_path in tqdm(sample_results_paths, desc="Processing Models"):
-        test_count = 0
-        model = sample_path.split('\\')[1]
-        df = pd.read_excel(sample_path)
-        for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing {model} Samples", leave=False):
-            row_dict = row.to_dict()
+    # sample_path = ""
+    if model == 'gpt-40':
+        sample_path = sample_results_paths[0]
+    elif model == "llama_70b":
+        sample_path = sample_results_paths[2]
+    else:
+        sample_path = sample_results_paths[1]
+    
+    # for sample_path in tqdm(sample_results_paths, desc="Processing Models"):
+    test_count = 0
+    print(model)
+    print("Sample path is ")
+    print(sample_path)
+    model = sample_path.split('/')[1]
+    df = pd.read_excel(sample_path)
+    # df = df.sample(3,random_state=42)
+    for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing {model} Samples", leave=False):
+        row_dict = row.to_dict()
+        
+        case_id = row_dict['case_id']
+        gold_summary = row_dict['gt_sum']
+        model_summary = row_dict['md_sum'] 
+        accuracies = []
+        
+        for i in range(n):
+            res = role_play_evaluate_summary(gold_summary, model_summary)
+            acc = extract_accuracies(res)
+            accuracies.append(acc)
             
-            case_id = row_dict['case_id']
-            gold_summary = row_dict['gt_sum']
-            model_summary = row_dict['md_sum'] 
-            accuracies = []
-            
-            for i in range(n):
-                res = role_play_evaluate_summary(gold_summary, model_summary)
-                acc = extract_accuracies(res)
-                accuracies.append(acc)
-                
-            mean, std_dev = calculate_mean_and_std(accuracies)
-            is_test = False
-            if case_id in test_case_ids:
-                test_count += 1
-                is_test = True
-            row_dict['model'] = model
-            row_dict['is_test'] = is_test
-            row_dict['accuracies'] = str(accuracies)
-            row_dict['mean_acc'] = mean
-            row_dict['std'] = std_dev
-            updated_rows.append(row_dict)
-            print(f"Test count for model: {model} is {test_count}")
+        mean, std_dev = calculate_mean_and_std(accuracies)
+        is_test = False
+        if case_id in test_case_ids:
+            test_count += 1
+            is_test = True
+        row_dict['model'] = model
+        row_dict['is_test'] = is_test
+        row_dict['accuracies'] = str(accuracies)
+        row_dict['mean_acc'] = mean
+        row_dict['std'] = std_dev
+        updated_rows.append(row_dict)
+        print(f"Test count for model: {model} is {test_count}")
     updated_df = pd.DataFrame(updated_rows)
     print(f"Update df len is {len(updated_df)}")
-    save_file_path = "results/evalution_results.xlsx"
+    save_file_path = f"results/{model}evalution_results.xlsx"
     updated_df.to_excel(save_file_path, index=False)
     print(f"DataFrame saved to {save_file_path}")
     
 if __name__ == "__main__":
-    evaluate_samples()
+    parser = argparse.ArgumentParser(description="Process a model.")
+    parser.add_argument('--model', type=str, required=True, help="model to process")
+    args = parser.parse_args()
+    
+    evaluate_samples(args.model)

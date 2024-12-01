@@ -1,0 +1,89 @@
+[5562, 16073, 589, 275, 5522, 15895]
+llama_70b
+Sample path is 
+results/llama_70b/sample_summarized_results.xlsx
+Processing llama_70b Samples:   0%|          | 0/111 [00:00<?, ?it/s]Processing llama_70b Samples:   1%|          | 1/111 [00:57<1:45:57, 57.80s/it]Processing llama_70b Samples:   2%|▏         | 2/111 [01:53<1:42:46, 56.57s/it]Processing llama_70b Samples:   3%|▎         | 3/111 [02:45<1:38:01, 54.46s/it]Processing llama_70b Samples:   4%|▎         | 4/111 [03:39<1:36:36, 54.18s/it]Processing llama_70b Samples:   5%|▍         | 5/111 [05:26<2:09:31, 73.32s/it]Processing llama_70b Samples:   5%|▌         | 6/111 [06:18<1:55:31, 66.02s/it]Processing llama_70b Samples:   6%|▋         | 7/111 [07:06<1:44:35, 60.34s/it]Processing llama_70b Samples:   7%|▋         | 8/111 [07:58<1:38:50, 57.57s/it]Processing llama_70b Samples:   8%|▊         | 9/111 [08:53<1:36:17, 56.64s/it]Processing llama_70b Samples:   9%|▉         | 10/111 [10:11<1:46:38, 63.35s/it]Processing llama_70b Samples:  10%|▉         | 11/111 [11:12<1:44:13, 62.53s/it]Processing llama_70b Samples:  11%|█         | 12/111 [12:07<1:39:18, 60.19s/it]Processing llama_70b Samples:  12%|█▏        | 13/111 [13:03<1:36:41, 59.20s/it]Processing llama_70b Samples:  13%|█▎        | 14/111 [13:56<1:32:15, 57.07s/it]Processing llama_70b Samples:  14%|█▎        | 15/111 [14:48<1:29:05, 55.68s/it]Processing llama_70b Samples:  14%|█▍        | 16/111 [15:45<1:28:40, 56.00s/it]Processing llama_70b Samples:  15%|█▌        | 17/111 [16:47<1:30:25, 57.71s/it]Processing llama_70b Samples:  16%|█▌        | 18/111 [17:32<1:23:39, 53.97s/it]Processing llama_70b Samples:  17%|█▋        | 19/111 [18:21<1:20:35, 52.56s/it]Processing llama_70b Samples:  18%|█▊        | 20/111 [19:16<1:20:37, 53.16s/it]Processing llama_70b Samples:  19%|█▉        | 21/111 [20:01<1:16:12, 50.81s/it]Processing llama_70b Samples:  20%|█▉        | 22/111 [20:55<1:16:42, 51.71s/it]Processing llama_70b Samples:  21%|██        | 23/111 [21:42<1:13:58, 50.44s/it]Processing llama_70b Samples:  22%|██▏       | 24/111 [22:32<1:12:57, 50.31s/it]Processing llama_70b Samples:  23%|██▎       | 25/111 [23:23<1:12:11, 50.36s/it]Processing llama_70b Samples:  23%|██▎       | 26/111 [24:20<1:14:05, 52.30s/it]Processing llama_70b Samples:  24%|██▍       | 27/111 [25:11<1:12:43, 51.95s/it]Processing llama_70b Samples:  25%|██▌       | 28/111 [26:07<1:13:50, 53.38s/it]Processing llama_70b Samples:  26%|██▌       | 29/111 [26:57<1:11:33, 52.36s/it]Processing llama_70b Samples:  27%|██▋       | 30/111 [27:46<1:09:16, 51.31s/it]Processing llama_70b Samples:  28%|██▊       | 31/111 [28:33<1:06:40, 50.00s/it]Processing llama_70b Samples:  29%|██▉       | 32/111 [29:21<1:04:56, 49.33s/it]Processing llama_70b Samples:  30%|██▉       | 33/111 [30:12<1:04:40, 49.75s/it]Processing llama_70b Samples:  31%|███       | 34/111 [31:05<1:05:09, 50.77s/it]Processing llama_70b Samples:  32%|███▏      | 35/111 [31:51<1:02:22, 49.24s/it]Processing llama_70b Samples:  32%|███▏      | 36/111 [32:41<1:01:51, 49.49s/it]Processing llama_70b Samples:  33%|███▎      | 37/111 [33:32<1:01:46, 50.09s/it]Processing llama_70b Samples:  34%|███▍      | 38/111 [34:24<1:01:26, 50.50s/it]Processing llama_70b Samples:  35%|███▌      | 39/111 [35:24<1:04:19, 53.60s/it]Processing llama_70b Samples:  36%|███▌      | 40/111 [36:13<1:01:38, 52.09s/it]Processing llama_70b Samples:  37%|███▋      | 41/111 [37:00<58:59, 50.57s/it]  Processing llama_70b Samples:  38%|███▊      | 42/111 [37:53<58:52, 51.20s/it]Processing llama_70b Samples:  39%|███▊      | 43/111 [38:41<57:09, 50.44s/it]Processing llama_70b Samples:  40%|███▉      | 44/111 [39:34<56:59, 51.04s/it]Processing llama_70b Samples:  41%|████      | 45/111 [40:31<58:16, 52.97s/it]Processing llama_70b Samples:  41%|████▏     | 46/111 [41:20<56:09, 51.83s/it]Processing llama_70b Samples:  42%|████▏     | 47/111 [42:11<54:50, 51.42s/it]Processing llama_70b Samples:  43%|████▎     | 48/111 [42:59<53:07, 50.59s/it]Processing llama_70b Samples:  44%|████▍     | 49/111 [44:01<55:39, 53.87s/it]                                                                              Test count for model: llama_70b is 0
+Test count for model: llama_70b is 1
+Test count for model: llama_70b is 1
+Test count for model: llama_70b is 1
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 2
+Test count for model: llama_70b is 3
+Test count for model: llama_70b is 3
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Test count for model: llama_70b is 4
+Traceback (most recent call last):
+  File "/home/cokite/cse595-final-proj/role_play_eval.py", line 130, in <module>
+    evaluate_samples(args.model)
+  File "/home/cokite/cse595-final-proj/role_play_eval.py", line 103, in evaluate_samples
+    res = role_play_evaluate_summary(gold_summary, model_summary)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/role_play_eval.py", line 14, in role_play_evaluate_summary
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_utils/_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/resources/chat/completions.py", line 829, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 1278, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 955, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 1044, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 1093, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 1044, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 1093, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/cokite/cse595-final-proj/venv/lib/python3.11/site-packages/openai/_base_client.py", line 1059, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'code': '429', 'message': 'Requests to the ChatCompletions_Create Operation under Azure OpenAI API version 2024-02-01 have exceeded token rate limit of your current OpenAI S0 pricing tier. Please retry after 5 seconds. Please go here: https://aka.ms/oai/quotaincrease if you would like to further increase the default rate limit.'}}

@@ -1,0 +1,117 @@
+[5562, 16073, 589, 275, 5522, 15895]
+legal-led-16384
+Sample path is 
+results/legal-led-16384/legal-led-16384-sample-summarized-results.xlsx
+Processing legal-led-16384 Samples:   0%|          | 0/111 [00:00<?, ?it/s]Processing legal-led-16384 Samples:   1%|          | 1/111 [00:56<1:43:21, 56.38s/it]Processing legal-led-16384 Samples:   2%|▏         | 2/111 [01:47<1:36:29, 53.12s/it]Processing legal-led-16384 Samples:   3%|▎         | 3/111 [02:42<1:37:22, 54.09s/it]Processing legal-led-16384 Samples:   4%|▎         | 4/111 [03:35<1:35:53, 53.77s/it]Processing legal-led-16384 Samples:   5%|▍         | 5/111 [04:42<1:43:08, 58.38s/it]Processing legal-led-16384 Samples:   5%|▌         | 6/111 [05:34<1:38:32, 56.31s/it]Processing legal-led-16384 Samples:   6%|▋         | 7/111 [06:41<1:43:25, 59.67s/it]Processing legal-led-16384 Samples:   7%|▋         | 8/111 [07:37<1:40:35, 58.59s/it]Processing legal-led-16384 Samples:   8%|▊         | 9/111 [08:31<1:37:01, 57.07s/it]Processing legal-led-16384 Samples:   9%|▉         | 10/111 [09:34<1:39:31, 59.12s/it]Processing legal-led-16384 Samples:  10%|▉         | 11/111 [10:28<1:35:47, 57.48s/it]Processing legal-led-16384 Samples:  11%|█         | 12/111 [11:27<1:35:23, 57.81s/it]Processing legal-led-16384 Samples:  12%|█▏        | 13/111 [12:34<1:38:52, 60.54s/it]Processing legal-led-16384 Samples:  13%|█▎        | 14/111 [13:28<1:35:01, 58.78s/it]Processing legal-led-16384 Samples:  14%|█▎        | 15/111 [14:21<1:31:01, 56.89s/it]Processing legal-led-16384 Samples:  14%|█▍        | 16/111 [15:35<1:38:15, 62.06s/it]Processing legal-led-16384 Samples:  15%|█▌        | 17/111 [16:26<1:31:57, 58.70s/it]Processing legal-led-16384 Samples:  16%|█▌        | 18/111 [17:18<1:27:47, 56.64s/it]Processing legal-led-16384 Samples:  17%|█▋        | 19/111 [18:15<1:27:22, 56.98s/it]Processing legal-led-16384 Samples:  18%|█▊        | 20/111 [19:20<1:29:46, 59.19s/it]Processing legal-led-16384 Samples:  19%|█▉        | 21/111 [20:09<1:24:29, 56.33s/it]Processing legal-led-16384 Samples:  20%|█▉        | 22/111 [21:14<1:27:03, 58.69s/it]Processing legal-led-16384 Samples:  21%|██        | 23/111 [22:05<1:22:41, 56.38s/it]Processing legal-led-16384 Samples:  22%|██▏       | 24/111 [23:18<1:29:10, 61.50s/it]Processing legal-led-16384 Samples:  23%|██▎       | 25/111 [24:14<1:25:55, 59.95s/it]Processing legal-led-16384 Samples:  23%|██▎       | 26/111 [25:44<1:37:24, 68.76s/it]Processing legal-led-16384 Samples:  24%|██▍       | 27/111 [26:47<1:34:06, 67.23s/it]Processing legal-led-16384 Samples:  25%|██▌       | 28/111 [27:37<1:25:34, 61.86s/it]Processing legal-led-16384 Samples:  26%|██▌       | 29/111 [28:41<1:25:32, 62.59s/it]Processing legal-led-16384 Samples:  27%|██▋       | 30/111 [29:29<1:18:44, 58.33s/it]Processing legal-led-16384 Samples:  28%|██▊       | 31/111 [30:22<1:15:33, 56.67s/it]Processing legal-led-16384 Samples:  29%|██▉       | 32/111 [31:15<1:13:18, 55.67s/it]Processing legal-led-16384 Samples:  30%|██▉       | 33/111 [32:03<1:09:19, 53.33s/it]Processing legal-led-16384 Samples:  31%|███       | 34/111 [32:54<1:07:20, 52.47s/it]Processing legal-led-16384 Samples:  32%|███▏      | 35/111 [33:42<1:04:55, 51.26s/it]Processing legal-led-16384 Samples:  32%|███▏      | 36/111 [34:55<1:12:04, 57.65s/it]Processing legal-led-16384 Samples:  33%|███▎      | 37/111 [35:44<1:07:55, 55.08s/it]Processing legal-led-16384 Samples:  34%|███▍      | 38/111 [36:36<1:05:54, 54.18s/it]Processing legal-led-16384 Samples:  35%|███▌      | 39/111 [37:33<1:06:03, 55.05s/it]Processing legal-led-16384 Samples:  36%|███▌      | 40/111 [38:31<1:06:12, 55.94s/it]Processing legal-led-16384 Samples:  37%|███▋      | 41/111 [39:22<1:03:31, 54.45s/it]Processing legal-led-16384 Samples:  38%|███▊      | 42/111 [40:41<1:11:05, 61.82s/it]Processing legal-led-16384 Samples:  39%|███▊      | 43/111 [41:43<1:10:09, 61.90s/it]Processing legal-led-16384 Samples:  40%|███▉      | 44/111 [42:41<1:07:53, 60.80s/it]Processing legal-led-16384 Samples:  41%|████      | 45/111 [44:03<1:13:53, 67.18s/it]Processing legal-led-16384 Samples:  41%|████▏     | 46/111 [44:56<1:07:55, 62.69s/it]Processing legal-led-16384 Samples:  42%|████▏     | 47/111 [46:03<1:08:27, 64.17s/it]Processing legal-led-16384 Samples:  43%|████▎     | 48/111 [46:55<1:03:19, 60.31s/it]Processing legal-led-16384 Samples:  44%|████▍     | 49/111 [47:56<1:02:40, 60.65s/it]Processing legal-led-16384 Samples:  45%|████▌     | 50/111 [48:51<59:59, 59.01s/it]  Processing legal-led-16384 Samples:  46%|████▌     | 51/111 [50:10<1:05:04, 65.08s/it]Processing legal-led-16384 Samples:  47%|████▋     | 52/111 [51:20<1:05:16, 66.38s/it]Processing legal-led-16384 Samples:  48%|████▊     | 53/111 [52:11<59:49, 61.89s/it]  Processing legal-led-16384 Samples:  49%|████▊     | 54/111 [53:11<58:15, 61.32s/it]Processing legal-led-16384 Samples:  50%|████▉     | 55/111 [53:56<52:43, 56.49s/it]Processing legal-led-16384 Samples:  50%|█████     | 56/111 [54:52<51:34, 56.27s/it]Processing legal-led-16384 Samples:  51%|█████▏    | 57/111 [55:42<48:48, 54.22s/it]Processing legal-led-16384 Samples:  52%|█████▏    | 58/111 [56:36<48:00, 54.35s/it]Processing legal-led-16384 Samples:  53%|█████▎    | 59/111 [57:54<53:10, 61.36s/it]Processing legal-led-16384 Samples:  54%|█████▍    | 60/111 [58:49<50:35, 59.53s/it]Processing legal-led-16384 Samples:  55%|█████▍    | 61/111 [59:37<46:47, 56.14s/it]Processing legal-led-16384 Samples:  56%|█████▌    | 62/111 [1:00:26<44:05, 54.00s/it]Processing legal-led-16384 Samples:  57%|█████▋    | 63/111 [1:01:38<47:22, 59.23s/it]Processing legal-led-16384 Samples:  58%|█████▊    | 64/111 [1:02:34<45:44, 58.40s/it]Processing legal-led-16384 Samples:  59%|█████▊    | 65/111 [1:03:28<43:44, 57.05s/it]Processing legal-led-16384 Samples:  59%|█████▉    | 66/111 [1:04:22<42:07, 56.18s/it]Processing legal-led-16384 Samples:  60%|██████    | 67/111 [1:05:21<41:49, 57.04s/it]Processing legal-led-16384 Samples:  61%|██████▏   | 68/111 [1:06:17<40:31, 56.55s/it]Processing legal-led-16384 Samples:  62%|██████▏   | 69/111 [1:07:08<38:32, 55.05s/it]Processing legal-led-16384 Samples:  63%|██████▎   | 70/111 [1:08:15<39:56, 58.45s/it]Processing legal-led-16384 Samples:  64%|██████▍   | 71/111 [1:09:07<37:47, 56.70s/it]Processing legal-led-16384 Samples:  65%|██████▍   | 72/111 [1:10:08<37:41, 57.99s/it]Processing legal-led-16384 Samples:  66%|██████▌   | 73/111 [1:11:31<41:19, 65.26s/it]Processing legal-led-16384 Samples:  67%|██████▋   | 74/111 [1:12:26<38:29, 62.42s/it]Processing legal-led-16384 Samples:  68%|██████▊   | 75/111 [1:13:19<35:45, 59.60s/it]Processing legal-led-16384 Samples:  68%|██████▊   | 76/111 [1:14:10<33:14, 56.99s/it]Processing legal-led-16384 Samples:  69%|██████▉   | 77/111 [1:15:08<32:22, 57.12s/it]Processing legal-led-16384 Samples:  70%|███████   | 78/111 [1:16:10<32:17, 58.71s/it]Processing legal-led-16384 Samples:  71%|███████   | 79/111 [1:16:59<29:48, 55.88s/it]Processing legal-led-16384 Samples:  72%|███████▏  | 80/111 [1:17:49<27:55, 54.05s/it]Processing legal-led-16384 Samples:  73%|███████▎  | 81/111 [1:18:41<26:43, 53.44s/it]Processing legal-led-16384 Samples:  74%|███████▍  | 82/111 [1:19:37<26:05, 54.00s/it]Processing legal-led-16384 Samples:  75%|███████▍  | 83/111 [1:20:25<24:28, 52.43s/it]Processing legal-led-16384 Samples:  76%|███████▌  | 84/111 [1:21:12<22:48, 50.67s/it]Processing legal-led-16384 Samples:  77%|███████▋  | 85/111 [1:22:29<25:23, 58.61s/it]Processing legal-led-16384 Samples:  77%|███████▋  | 86/111 [1:23:23<23:53, 57.32s/it]Processing legal-led-16384 Samples:  78%|███████▊  | 87/111 [1:24:27<23:43, 59.33s/it]Processing legal-led-16384 Samples:  79%|███████▉  | 88/111 [1:25:23<22:15, 58.07s/it]Processing legal-led-16384 Samples:  80%|████████  | 89/111 [1:26:19<21:04, 57.48s/it]Processing legal-led-16384 Samples:  81%|████████  | 90/111 [1:27:18<20:17, 57.96s/it]Processing legal-led-16384 Samples:  82%|████████▏ | 91/111 [1:28:26<20:22, 61.14s/it]Processing legal-led-16384 Samples:  83%|████████▎ | 92/111 [1:29:18<18:25, 58.19s/it]Processing legal-led-16384 Samples:  84%|████████▍ | 93/111 [1:30:23<18:05, 60.29s/it]Processing legal-led-16384 Samples:  85%|████████▍ | 94/111 [1:31:14<16:18, 57.56s/it]Processing legal-led-16384 Samples:  86%|████████▌ | 95/111 [1:32:16<15:40, 58.75s/it]Processing legal-led-16384 Samples:  86%|████████▋ | 96/111 [1:33:23<15:20, 61.39s/it]Processing legal-led-16384 Samples:  87%|████████▋ | 97/111 [1:34:15<13:39, 58.53s/it]Processing legal-led-16384 Samples:  88%|████████▊ | 98/111 [1:35:22<13:16, 61.23s/it]Processing legal-led-16384 Samples:  89%|████████▉ | 99/111 [1:36:18<11:56, 59.68s/it]Processing legal-led-16384 Samples:  90%|█████████ | 100/111 [1:37:14<10:43, 58.50s/it]Processing legal-led-16384 Samples:  91%|█████████ | 101/111 [1:38:30<10:37, 63.70s/it]Processing legal-led-16384 Samples:  92%|█████████▏| 102/111 [1:39:30<09:24, 62.68s/it]Processing legal-led-16384 Samples:  93%|█████████▎| 103/111 [1:40:23<07:57, 59.65s/it]Processing legal-led-16384 Samples:  94%|█████████▎| 104/111 [1:41:14<06:38, 56.98s/it]Processing legal-led-16384 Samples:  95%|█████████▍| 105/111 [1:42:17<05:53, 58.94s/it]Processing legal-led-16384 Samples:  95%|█████████▌| 106/111 [1:43:36<05:23, 64.78s/it]Processing legal-led-16384 Samples:  96%|█████████▋| 107/111 [1:44:34<04:11, 62.92s/it]Processing legal-led-16384 Samples:  97%|█████████▋| 108/111 [1:45:26<02:59, 59.73s/it]Processing legal-led-16384 Samples:  98%|█████████▊| 109/111 [1:46:17<01:53, 56.86s/it]Processing legal-led-16384 Samples:  99%|█████████▉| 110/111 [1:47:21<00:59, 59.06s/it]Processing legal-led-16384 Samples: 100%|██████████| 111/111 [1:48:10<00:00, 56.19s/it]                                                                                       Test count for model: legal-led-16384 is 0
+Test count for model: legal-led-16384 is 1
+Test count for model: legal-led-16384 is 1
+Test count for model: legal-led-16384 is 1
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 2
+Test count for model: legal-led-16384 is 3
+Test count for model: legal-led-16384 is 3
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 4
+Test count for model: legal-led-16384 is 5
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Test count for model: legal-led-16384 is 6
+Update df len is 111
+DataFrame saved to results/legal-led-16384evalution_results.xlsx
