@@ -1,9 +1,0 @@
-[5562, 16073, 589, 275, 5522, 15895]
-llama_70b
-Sample path is 
-results/llama_70b/sample_summarized_results.xlsx
-Processing llama_70b Samples:   0%|          | 0/3 [00:00<?, ?it/s]Processing llama_70b Samples:  33%|███▎      | 1/3 [00:46<01:32, 46.38s/it]Processing llama_70b Samples:  67%|██████▋   | 2/3 [01:35<00:47, 47.81s/it]Processing llama_70b Samples: 100%|██████████| 3/3 [02:37<00:00, 54.62s/it]                                                                           Test count for model: llama_70b is 0
-Test count for model: llama_70b is 0
-Test count for model: llama_70b is 1
-Update df len is 3
-DataFrame saved to results/llama_70bevalution_results.xlsx

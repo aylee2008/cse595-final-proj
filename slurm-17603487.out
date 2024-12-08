@@ -1,117 +1,0 @@
-[5562, 16073, 589, 275, 5522, 15895]
-llama_70b
-Sample path is 
-results/llama_70b/sample_summarized_results.xlsx
-Processing llama_70b Samples:   0%|          | 0/111 [00:00<?, ?it/s]Processing llama_70b Samples:   1%|          | 1/111 [00:55<1:41:54, 55.59s/it]Processing llama_70b Samples:   2%|▏         | 2/111 [01:50<1:39:48, 54.94s/it]Processing llama_70b Samples:   3%|▎         | 3/111 [02:42<1:36:59, 53.89s/it]Processing llama_70b Samples:   4%|▎         | 4/111 [03:31<1:32:48, 52.04s/it]Processing llama_70b Samples:   5%|▍         | 5/111 [04:30<1:36:19, 54.53s/it]Processing llama_70b Samples:   5%|▌         | 6/111 [05:23<1:34:08, 53.80s/it]Processing llama_70b Samples:   6%|▋         | 7/111 [06:07<1:27:36, 50.54s/it]Processing llama_70b Samples:   7%|▋         | 8/111 [06:52<1:24:12, 49.05s/it]Processing llama_70b Samples:   8%|▊         | 9/111 [07:45<1:25:01, 50.01s/it]Processing llama_70b Samples:   9%|▉         | 10/111 [08:33<1:23:14, 49.45s/it]Processing llama_70b Samples:  10%|▉         | 11/111 [09:22<1:22:30, 49.51s/it]Processing llama_70b Samples:  11%|█         | 12/111 [10:17<1:24:08, 50.99s/it]Processing llama_70b Samples:  12%|█▏        | 13/111 [11:12<1:25:20, 52.25s/it]Processing llama_70b Samples:  13%|█▎        | 14/111 [12:08<1:26:21, 53.42s/it]Processing llama_70b Samples:  14%|█▎        | 15/111 [12:57<1:23:15, 52.04s/it]Processing llama_70b Samples:  14%|█▍        | 16/111 [13:52<1:23:42, 52.87s/it]Processing llama_70b Samples:  15%|█▌        | 17/111 [14:47<1:24:11, 53.74s/it]Processing llama_70b Samples:  16%|█▌        | 18/111 [15:39<1:22:04, 52.96s/it]Processing llama_70b Samples:  17%|█▋        | 19/111 [16:31<1:20:46, 52.68s/it]Processing llama_70b Samples:  18%|█▊        | 20/111 [17:22<1:19:23, 52.35s/it]Processing llama_70b Samples:  19%|█▉        | 21/111 [18:14<1:18:07, 52.09s/it]Processing llama_70b Samples:  20%|█▉        | 22/111 [19:02<1:15:43, 51.05s/it]Processing llama_70b Samples:  21%|██        | 23/111 [19:56<1:16:10, 51.94s/it]Processing llama_70b Samples:  22%|██▏       | 24/111 [20:41<1:12:04, 49.71s/it]Processing llama_70b Samples:  23%|██▎       | 25/111 [21:32<1:12:01, 50.26s/it]Processing llama_70b Samples:  23%|██▎       | 26/111 [22:23<1:11:32, 50.50s/it]Processing llama_70b Samples:  24%|██▍       | 27/111 [23:15<1:11:02, 50.75s/it]Processing llama_70b Samples:  25%|██▌       | 28/111 [24:05<1:10:06, 50.68s/it]Processing llama_70b Samples:  26%|██▌       | 29/111 [24:54<1:08:33, 50.16s/it]Processing llama_70b Samples:  27%|██▋       | 30/111 [25:41<1:06:27, 49.23s/it]Processing llama_70b Samples:  28%|██▊       | 31/111 [26:30<1:05:14, 48.94s/it]Processing llama_70b Samples:  29%|██▉       | 32/111 [27:24<1:06:26, 50.47s/it]Processing llama_70b Samples:  30%|██▉       | 33/111 [28:19<1:07:43, 52.10s/it]Processing llama_70b Samples:  31%|███       | 34/111 [29:14<1:07:41, 52.75s/it]Processing llama_70b Samples:  32%|███▏      | 35/111 [29:55<1:02:30, 49.35s/it]Processing llama_70b Samples:  32%|███▏      | 36/111 [30:52<1:04:33, 51.64s/it]Processing llama_70b Samples:  33%|███▎      | 37/111 [31:43<1:03:27, 51.46s/it]Processing llama_70b Samples:  34%|███▍      | 38/111 [32:39<1:04:19, 52.87s/it]Processing llama_70b Samples:  35%|███▌      | 39/111 [33:32<1:03:15, 52.72s/it]Processing llama_70b Samples:  36%|███▌      | 40/111 [34:31<1:04:32, 54.55s/it]Processing llama_70b Samples:  37%|███▋      | 41/111 [35:21<1:02:09, 53.28s/it]Processing llama_70b Samples:  38%|███▊      | 42/111 [36:36<1:08:59, 59.99s/it]Processing llama_70b Samples:  39%|███▊      | 43/111 [37:29<1:05:33, 57.84s/it]Processing llama_70b Samples:  40%|███▉      | 44/111 [38:25<1:03:58, 57.28s/it]Processing llama_70b Samples:  41%|████      | 45/111 [39:16<1:00:51, 55.33s/it]Processing llama_70b Samples:  41%|████▏     | 46/111 [40:09<59:05, 54.55s/it]  Processing llama_70b Samples:  42%|████▏     | 47/111 [40:59<56:42, 53.16s/it]Processing llama_70b Samples:  43%|████▎     | 48/111 [41:49<54:44, 52.14s/it]Processing llama_70b Samples:  44%|████▍     | 49/111 [42:36<52:23, 50.69s/it]Processing llama_70b Samples:  45%|████▌     | 50/111 [43:41<56:00, 55.09s/it]Processing llama_70b Samples:  46%|████▌     | 51/111 [44:38<55:42, 55.72s/it]Processing llama_70b Samples:  47%|████▋     | 52/111 [45:31<53:46, 54.68s/it]Processing llama_70b Samples:  48%|████▊     | 53/111 [46:22<51:48, 53.60s/it]Processing llama_70b Samples:  49%|████▊     | 54/111 [47:13<50:13, 52.88s/it]Processing llama_70b Samples:  50%|████▉     | 55/111 [48:02<48:22, 51.83s/it]Processing llama_70b Samples:  50%|█████     | 56/111 [48:55<47:47, 52.13s/it]Processing llama_70b Samples:  51%|█████▏    | 57/111 [49:49<47:29, 52.78s/it]Processing llama_70b Samples:  52%|█████▏    | 58/111 [50:41<46:11, 52.29s/it]Processing llama_70b Samples:  53%|█████▎    | 59/111 [51:35<45:47, 52.83s/it]Processing llama_70b Samples:  54%|█████▍    | 60/111 [52:25<44:12, 52.01s/it]Processing llama_70b Samples:  55%|█████▍    | 61/111 [53:16<43:03, 51.67s/it]Processing llama_70b Samples:  56%|█████▌    | 62/111 [54:15<44:06, 54.00s/it]Processing llama_70b Samples:  57%|█████▋    | 63/111 [55:19<45:37, 57.03s/it]Processing llama_70b Samples:  58%|█████▊    | 64/111 [56:17<44:54, 57.33s/it]Processing llama_70b Samples:  59%|█████▊    | 65/111 [57:05<41:42, 54.40s/it]Processing llama_70b Samples:  59%|█████▉    | 66/111 [57:57<40:16, 53.69s/it]Processing llama_70b Samples:  60%|██████    | 67/111 [58:48<38:56, 53.09s/it]Processing llama_70b Samples:  61%|██████▏   | 68/111 [59:43<38:26, 53.64s/it]Processing llama_70b Samples:  62%|██████▏   | 69/111 [1:00:38<37:44, 53.91s/it]Processing llama_70b Samples:  63%|██████▎   | 70/111 [1:01:57<41:56, 61.37s/it]Processing llama_70b Samples:  64%|██████▍   | 71/111 [1:02:53<39:58, 59.97s/it]Processing llama_70b Samples:  65%|██████▍   | 72/111 [1:03:50<38:24, 59.10s/it]Processing llama_70b Samples:  66%|██████▌   | 73/111 [1:04:42<36:03, 56.93s/it]Processing llama_70b Samples:  67%|██████▋   | 74/111 [1:05:31<33:33, 54.43s/it]Processing llama_70b Samples:  68%|██████▊   | 75/111 [1:06:24<32:21, 53.93s/it]Processing llama_70b Samples:  68%|██████▊   | 76/111 [1:07:19<31:37, 54.20s/it]Processing llama_70b Samples:  69%|██████▉   | 77/111 [1:08:09<30:08, 53.18s/it]Processing llama_70b Samples:  70%|███████   | 78/111 [1:08:56<28:10, 51.22s/it]Processing llama_70b Samples:  71%|███████   | 79/111 [1:09:46<27:06, 50.83s/it]Processing llama_70b Samples:  72%|███████▏  | 80/111 [1:10:36<26:13, 50.75s/it]Processing llama_70b Samples:  73%|███████▎  | 81/111 [1:11:25<24:59, 49.99s/it]Processing llama_70b Samples:  74%|███████▍  | 82/111 [1:12:17<24:29, 50.66s/it]Processing llama_70b Samples:  75%|███████▍  | 83/111 [1:13:31<26:57, 57.77s/it]Processing llama_70b Samples:  76%|███████▌  | 84/111 [1:14:27<25:40, 57.06s/it]Processing llama_70b Samples:  77%|███████▋  | 85/111 [1:15:19<24:03, 55.51s/it]Processing llama_70b Samples:  77%|███████▋  | 86/111 [1:16:12<22:54, 54.99s/it]Processing llama_70b Samples:  78%|███████▊  | 87/111 [1:17:02<21:18, 53.28s/it]Processing llama_70b Samples:  79%|███████▉  | 88/111 [1:17:53<20:14, 52.82s/it]Processing llama_70b Samples:  80%|████████  | 89/111 [1:18:50<19:46, 53.94s/it]Processing llama_70b Samples:  81%|████████  | 90/111 [1:19:44<18:53, 53.96s/it]Processing llama_70b Samples:  82%|████████▏ | 91/111 [1:20:31<17:20, 52.00s/it]Processing llama_70b Samples:  83%|████████▎ | 92/111 [1:21:28<16:53, 53.32s/it]Processing llama_70b Samples:  84%|████████▍ | 93/111 [1:22:20<15:53, 53.00s/it]Processing llama_70b Samples:  85%|████████▍ | 94/111 [1:23:04<14:16, 50.38s/it]Processing llama_70b Samples:  86%|████████▌ | 95/111 [1:23:55<13:29, 50.61s/it]Processing llama_70b Samples:  86%|████████▋ | 96/111 [1:24:55<13:18, 53.25s/it]Processing llama_70b Samples:  87%|████████▋ | 97/111 [1:25:54<12:48, 54.90s/it]Processing llama_70b Samples:  88%|████████▊ | 98/111 [1:26:53<12:11, 56.28s/it]Processing llama_70b Samples:  89%|████████▉ | 99/111 [1:27:47<11:07, 55.59s/it]Processing llama_70b Samples:  90%|█████████ | 100/111 [1:29:04<11:22, 62.03s/it]Processing llama_70b Samples:  91%|█████████ | 101/111 [1:29:56<09:49, 58.93s/it]Processing llama_70b Samples:  92%|█████████▏| 102/111 [1:30:54<08:48, 58.68s/it]Processing llama_70b Samples:  93%|█████████▎| 103/111 [1:31:56<07:56, 59.60s/it]Processing llama_70b Samples:  94%|█████████▎| 104/111 [1:33:13<07:34, 64.94s/it]Processing llama_70b Samples:  95%|█████████▍| 105/111 [1:34:14<06:21, 63.62s/it]Processing llama_70b Samples:  95%|█████████▌| 106/111 [1:35:05<05:00, 60.09s/it]Processing llama_70b Samples:  96%|█████████▋| 107/111 [1:35:58<03:51, 57.87s/it]Processing llama_70b Samples:  97%|█████████▋| 108/111 [1:36:53<02:51, 57.10s/it]Processing llama_70b Samples:  98%|█████████▊| 109/111 [1:37:59<01:59, 59.50s/it]Processing llama_70b Samples:  99%|█████████▉| 110/111 [1:38:47<00:56, 56.32s/it]Processing llama_70b Samples: 100%|██████████| 111/111 [1:39:52<00:00, 58.67s/it]                                                                                 Test count for model: llama_70b is 0
-Test count for model: llama_70b is 1
-Test count for model: llama_70b is 1
-Test count for model: llama_70b is 1
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 2
-Test count for model: llama_70b is 3
-Test count for model: llama_70b is 3
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 4
-Test count for model: llama_70b is 5
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Test count for model: llama_70b is 6
-Update df len is 111
-DataFrame saved to results/llama_70bevalution_results.xlsx
